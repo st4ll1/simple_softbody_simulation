@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_body.html" title="Body" alt="" coords="6,56,58,83"/>
+<area shape="rect" id="node3" href="$class_rigid_body.html" title="RigidBody" alt="" coords="107,31,189,57"/>
+<area shape="rect" id="node9" href="$class_softbody.html" title="Softbody" alt="" coords="111,81,185,108"/>
+<area shape="rect" id="node5" href="$class_ball.html" title="Ball" alt="" coords="243,5,287,32"/>
+<area shape="rect" id="node7" href="$class_plane.html" title="Plane" alt="" coords="238,56,293,83"/>
+</map>

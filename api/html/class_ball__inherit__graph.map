@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_rigid_body.html" title="{RigidBody\n|# mass\l# color\l# position\l# velocity\l# force\l|+ RigidBody()\l+ ~RigidBody()\l+ update()\l+ draw()\l+ applyForce()\l+ applyVelocity()\l+ setPosition()\l+ setVelocity()\l+ setMass()\l+ getMass()\l+ getPosition()\l+ getVelocity()\l}" alt="" coords="5,177,125,474"/>
+<area shape="rect" id="node4" href="$class_body.html" title="{Body\n|+ isAlive\l|+ Body()\l+ ~Body()\l+ update()\l+ draw()\l}" alt="" coords="25,6,105,127"/>
+</map>

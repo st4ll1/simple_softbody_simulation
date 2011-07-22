@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rigid_body.html" title="{RigidBody\n|# mass\l# color\l# position\l# velocity\l# force\l|+ RigidBody()\l+ ~RigidBody()\l+ update()\l+ draw()\l+ applyForce()\l+ applyVelocity()\l+ setPosition()\l+ setVelocity()\l+ setMass()\l+ getMass()\l+ getPosition()\l+ getVelocity()\l}" alt="" coords="55,177,175,474"/>
+<area shape="rect" id="node9" href="$class_softbody.html" title="{Softbody\n|+ drawVertices\l+ drawEdges\l+ edgeStrength\l+ edgeDumpingFactor\l&#45; vertices\l&#45; edges\l|+ Softbody()\l+ ~Softbody()\l+ update()\l+ draw()\l+ addVertex()\l+ addEdge()\l+ addEdge()\l+ getVertex()\l+ getAmountOfVertices()\l+ getAmountOfEdges()\l+ applyForceAtVertex()\l}" alt="" coords="199,177,365,474"/>
+<area shape="rect" id="node5" href="$class_ball.html" title="{Ball\n|&#45; radius\l&#45; lifeTime\l&#45; maxLifeTime\l|+ Ball()\l+ ~Ball()\l+ draw()\l+ update()\l+ getRadius()\l}" alt="" coords="5,523,107,688"/>
+<area shape="rect" id="node7" href="$class_plane.html" title="{Plane\n|&#45; position\l&#45; size\l|+ Plane()\l+ ~Plane()\l+ draw()\l+ getSize()\l}" alt="" coords="131,537,217,673"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmowa_1_1sgui_1_1_color_var_control.html#a3e9b04a37f797556d7534f5bcf2d4a62" title="mowa::sgui::ColorVarControl::draw" alt="" coords="342,5,565,32"/>
+<area shape="rect" id="node5" href="$classmowa_1_1sgui_1_1_int_var_control.html#a70538ef7f923d01b5c0803bff18c9e5e" title="mowa::sgui::IntVarControl::draw" alt="" coords="350,56,557,83"/>
+<area shape="rect" id="node7" href="$classmowa_1_1sgui_1_1_float_var_control.html#a7ffe63ec8b25dcbb3449ea99872773d6" title="mowa::sgui::FloatVarControl::draw" alt="" coords="343,107,564,133"/>
+</map>

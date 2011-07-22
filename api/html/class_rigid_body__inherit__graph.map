@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_ball.html" title="{Ball\n|&#45; radius\l&#45; lifeTime\l&#45; maxLifeTime\l|+ Ball()\l+ ~Ball()\l+ draw()\l+ update()\l+ getRadius()\l}" alt="" coords="5,523,107,688"/>
+<area shape="rect" id="node7" href="$class_plane.html" title="{Plane\n|&#45; position\l&#45; size\l|+ Plane()\l+ ~Plane()\l+ draw()\l+ getSize()\l}" alt="" coords="131,537,217,673"/>
+<area shape="rect" id="node2" href="$class_body.html" title="{Body\n|+ isAlive\l|+ Body()\l+ ~Body()\l+ update()\l+ draw()\l}" alt="" coords="74,6,155,127"/>
+</map>

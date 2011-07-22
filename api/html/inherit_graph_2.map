@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classmowa_1_1sgui_1_1_control.html" title="mowa::sgui::Control" alt="" coords="6,233,143,260"/>
+<area shape="rect" id="node3" href="$classmowa_1_1sgui_1_1_bool_var_control.html" title="mowa::sgui::BoolVarControl" alt="" coords="201,5,383,32"/>
+<area shape="rect" id="node5" href="$classmowa_1_1sgui_1_1_button_control.html" title="mowa::sgui::ButtonControl" alt="" coords="205,56,379,83"/>
+<area shape="rect" id="node7" href="$classmowa_1_1sgui_1_1_color_var_control.html" title="mowa::sgui::ColorVarControl" alt="" coords="199,107,385,133"/>
+<area shape="rect" id="node9" href="$classmowa_1_1sgui_1_1_column_control.html" title="mowa::sgui::ColumnControl" alt="" coords="201,157,383,184"/>
+<area shape="rect" id="node11" href="$classmowa_1_1sgui_1_1_float_var_control.html" title="mowa::sgui::FloatVarControl" alt="" coords="199,208,385,235"/>
+<area shape="rect" id="node13" href="$classmowa_1_1sgui_1_1_int_var_control.html" title="mowa::sgui::IntVarControl" alt="" coords="207,259,377,285"/>
+<area shape="rect" id="node15" href="$classmowa_1_1sgui_1_1_label_control.html" title="mowa::sgui::LabelControl" alt="" coords="208,309,376,336"/>
+<area shape="rect" id="node17" href="$classmowa_1_1sgui_1_1_panel_control.html" title="mowa::sgui::PanelControl" alt="" coords="207,360,377,387"/>
+<area shape="rect" id="node19" href="$classmowa_1_1sgui_1_1_separator_control.html" title="mowa::sgui::SeparatorControl" alt="" coords="195,411,389,437"/>
+<area shape="rect" id="node21" href="$classmowa_1_1sgui_1_1_texture_var_control.html" title="mowa::sgui::TextureVarControl" alt="" coords="192,461,392,488"/>
+</map>
